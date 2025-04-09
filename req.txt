@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+scipy
+scrapy
+tensorflow
+nltk
+spacy
+transformers
+beautifulsoup4
+requests
+asyncio
